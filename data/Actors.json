@@ -1,0 +1,7 @@
+[
+null,
+{"id":1,"battlerName":"Main hero","characterIndex":0,"characterName":"Main hero","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"Main hero","traits":[],"initialLevel":53,"maxLevel":98,"name":"Григ","nickname":"","note":"","profile":"Авантюрист B класса, лидер группы Вне Синевы. Живёт от награды к награде, почти все деньги вкладывает в развитие группы. Характер общительный. Женат на Грэйс."},
+{"id":2,"battlerName":"Cool girl","characterIndex":0,"characterName":"Cool girl","classId":2,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"Cool girl","traits":[],"initialLevel":44,"maxLevel":99,"name":"Джина","nickname":"","note":"","profile":""},
+{"id":3,"battlerName":"GloryToMogosh","characterIndex":0,"characterName":"GloryToMogosh","classId":3,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"GloryToMogosh","traits":[],"initialLevel":1,"maxLevel":99,"name":"Валиса","nickname":"","note":"","profile":""},
+{"id":4,"battlerName":"Red spy's IOB","characterIndex":0,"characterName":"Red spy's IOB","classId":4,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"Red spy's IOB","traits":[],"initialLevel":1,"maxLevel":99,"name":"Клиндтбелл","nickname":"","note":"","profile":""}
+]
